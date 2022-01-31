@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.header{
+    background-image: url(../sahifa/sahifa/images/chef-icon.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align: center;
+    padding: 60px 0;
+}
+.header h1{
+    font-size: 52px;
+    letter-spacing: 5px;
+    font-family: 'comfortaa',
+    cursive;
+    font-weight: 600;
+}
+.header p{
+    font-size: 22px;
+}
+
+.nav{
+    border-top: 1px solid grey;
+    border-bottom:1px solid  grey;
+}
+.menu li{
+    display: inline-block;
+    padding: 16px 32px;
+}
+.menu li a {
+    text-transform: uppercase;
+    color: black;
+    text-decoration:none ;
+}
+.menu li:hover{
+    background-color: grey;
+}
+.box {
+    width: calc(100% / 3 - 20px );
+    height: 350px;
+    float: left;
+    border: 0px solid;
+    margin: 1px;
+}
+.img1 {
+    width: 350px;
+    height: 200px;
+}
+button {
+ background-color: orange;
+ color: ;
+
+}
+.h4{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    margin: 10px;
+
+}
+.img2{
+    width: 350px;
+    height: 200px;
+}
+
+}
+
+.img3{
+    width: 350px;
+    height: 200px;
+}
+.btn3{
+    background-color: rgb(129, 200, 224);
+    color: white;
+    padding: 5px 0px 5px 0px;
+    
+}
+.img4{
+    width: 350px;
+    height: 200px;
+}
+
+}
+.img5{
+    width: 350px;
+    height: 200px;
+}
+
+}
+.img6{
+    width: 350px;
+    height: 200px;
+}
+.btn6{
+    background-color: rgb(197, 53, 28);
+    color: white;
+}
+.btn7{
+    border: 2px solid rgb(207, 29, 29);
+    background-color: white;
+    color: rgb(160, 44, 23);
+    width:230px;
+    height: 60px;
+   
+    font-size: large;
+    position: relative;
+    left: 420px;
+}
+.footer{
+    
+    
+    margin: 10px 0px 0px ;
+    padding: 100px 0px;
+    background-image:url(../sahifa/sahifa/images/background.jpg);
+    background-repeat: no-repeat;
+}
+
+
+.footer p{
+    color: white;
+    margin: 40px;
+    margin-left: 600px;
+
+}
+
+.btn8{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+}
+
+
+/* shrift nomi Comforta */
+
+.input_email{
+    height: 50px;
+    margin-left: 300px;
+    width: 300px;
+}
+
+.hafta_text{
+    position: relative;
+    right: 150px;
+}
+
+.ichimlik{
+    background-color: rgb(129, 200, 224);
+    color: white;
+}
+
+.desert{
+    background-color: tomato;
+    color: white;
+}
+
+.salat{
+    background-color: green;
+    color: white;
+}
